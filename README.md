@@ -1,4 +1,4 @@
-# todos
+# A small todo application developed in Vue.js & Vuex. Using non-persistent Json Placeholder API.
 
 ## Project setup
 ```

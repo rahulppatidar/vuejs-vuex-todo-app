@@ -1,5 +1,7 @@
 # A small todo application developed in Vue.js & Vuex. Using non-persistent Json Placeholder API.
 
+#### [Demo](https://rahulppatidar.github.io/vue-vuex-todo-app/)
+
 ## Project setup
 ```
 yarn install

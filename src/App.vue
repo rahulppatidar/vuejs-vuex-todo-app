@@ -7,6 +7,7 @@
         <small
           >A small todo application developed in Vue.js & Vuex. Using
           non-persistent Json Placeholder API.
+          <a href="https://github.com/rahulppatidar/vuejs-vuex-todo-app" target="_blank">View Code</a>
         </small>
       </div>
       <AddTodo />
